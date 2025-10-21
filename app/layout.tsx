@@ -14,7 +14,6 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: "Luxe Lash Academy - Master the Art of Lash Extensions",
   description: "Professional eyelash extension training courses and certification programs",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
